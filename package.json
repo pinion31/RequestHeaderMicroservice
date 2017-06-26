@@ -1,0 +1,25 @@
+{
+  "name": "requestheadermicroservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinion31/RequestHeaderMicroservice.git"
+  },
+  "author": "Chris Cantu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinion31/RequestHeaderMicroservice/issues"
+  },
+  "homepage": "https://github.com/pinion31/RequestHeaderMicroservice#readme",
+  "dependencies": {
+    "navigator": "^1.0.1",
+    "request-ip": "^2.0.1",
+    "useragent": "^2.1.13"
+  }
+}
